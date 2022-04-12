@@ -1,0 +1,14 @@
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\bin\Debug\net6.0\ProiectSoftbinator.EN.deps.json
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\bin\Debug\net6.0\ProiectSoftbinator.EN.runtimeconfig.json
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\bin\Debug\net6.0\ProiectSoftbinator.EN.dll
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\bin\Debug\net6.0\ProiectSoftbinator.EN.pdb
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.csproj.AssemblyReference.cache
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.AssemblyInfoInputs.cache
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.AssemblyInfo.cs
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.csproj.CoreCompileInputs.cache
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.dll
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\refint\ProiectSoftbinator.EN.dll
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.pdb
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ProiectSoftbinator.EN.genruntimeconfig.cache
+D:\Softbinator\Proiect\ProiectSoftbinator\ProiectSoftbinator.EN\obj\Debug\net6.0\ref\ProiectSoftbinator.EN.dll
